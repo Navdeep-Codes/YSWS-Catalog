@@ -53,28 +53,28 @@ limitedTime:
   website: https://pixeldust.hackclub.com/
   slack: https://hackclub.slack.com/archives/C0895PXH53M
   slackChannel: "#pixeldust"
-  status: active
+  status: ended
   deadline: '2025-04-13T23:59:59'
 - name: Juice
   description: Spend 100 hours in 2 months building a game, and we'll cover your Steam release and fund a flight to China for a pop-up shop.
   website: https://juice.hackclub.com
   slack: https://hackclub.slack.com/archives/C088UF12N1Z
   slackChannel: "#juice"
-  status: active
+  status: ended
   deadline: '2025-04-01T23:59:59'
 - name: Jungle
   description: Spend time working on your game, get money to help publish it! Prizes include steam license, itch.io asset store credits, and much much more!
   website: https://juice.hackclub.com/jungle 
   slack: https://hackclub.slack.com/archives/C086MACKK43
   slackChannel: "#jungle"
-  status: active
+  status: ended
   deadline: '2025-04-01T23:59:59'
 - name: Infill
   description: Design your own 3D printer mod, get $20 to build it!
   website: https://github.com/hackclub/infill
   slack: https://hackclub.slack.com/archives/C08B7LF58TX
   slackChannel: "#infill"
-  status: active
+  status: ended
   deadline: '2025-05-04T23:59:59'
   participants: 380
 - name: Visioneer
@@ -153,7 +153,7 @@ limitedTime:
   website: https://github.com/HackClub/riceathon
   slack: https://hackclub.slack.com/archives/C07MLF9A8H5
   slackChannel: "#riceathon"
-  status: active
+  status: ended
   deadline: '2025-01-10T23:59:59'
   participants: 64
 - name: Hacky Holidays
